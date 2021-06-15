@@ -1,4 +1,4 @@
-# seg-pns-bf-model
+# model-seg-pns-bf
 default OM model that works at a resolution of 0.1 micrometer per pixel
 
 # Steps to train this model
